@@ -7,9 +7,9 @@
 ---
 
 ## SOMMAIRE / SUMMARY  
-- [Présentation en français / Presentation in French](#francais)  
+- [Présentation en français / Presentation in French](#français)  
 - [Présentation en anglais / Presentation in English](#english)  
-- [Tutoriel et démonstration / Tutorial and demonstration](#demo-et-tutoriel--demo-and-tutorial)  
+- [Tutoriel et démonstration / Tutorial and demonstration](#démo-et-tutoriel--demo-and-tutorial)  
 
 ---
 
@@ -32,7 +32,7 @@ CloudLine est une application web permettant de générer des nuages de mots per
 
 ### Installation et Utilisation  
 1. Télécharger ou cloner le projet :  
-   ```bash
+```bash
    git clone https://github.com/ton-repo/CloudLine.git
 ```
 
@@ -72,9 +72,9 @@ CloudLine is a web application that allows you to generate custom word clouds fr
 
 ### Installation and Usage  
 1. Download or clone the project:  
-   ```bash
+```bash
    git clone https://github.com/your-repo/CloudLine.git
-   ```
+```
 2.Run the local server with:
  ```bash
 php -S localhost:8000
