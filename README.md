@@ -33,7 +33,7 @@ CloudLine est une application web permettant de générer des nuages de mots per
 ### Installation et Utilisation  
 1. Télécharger ou cloner le projet :  
 ```bash
-   git clone https://github.com/ton-repo/CloudLine.git
+   git clone https://github.com/D-TheProgrammer/Projet-Nuage_de_mot_Cloudword_in_PHP_Js.git
 ```
 
 2. Lancer le serveur local avec :
@@ -73,7 +73,7 @@ CloudLine is a web application that allows you to generate custom word clouds fr
 ### Installation and Usage  
 1. Download or clone the project:  
 ```bash
-   git clone https://github.com/your-repo/CloudLine.git
+   git clone https://github.com/D-TheProgrammer/Projet-Nuage_de_mot_Cloudword_in_PHP_Js.git
 ```
 2.Run the local server with:
  ```bash
